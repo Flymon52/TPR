@@ -1,0 +1,6 @@
+BMW X6;BMW X7;BMW X1;BMW X5;BMW X3
+Drive type:0.15;8;10;6;9;7
+Price:0.35;7;6;10;8;9
+Color:0.15;9;10;6;9;8
+Engine volume:0.1;9;10;7;9;8
+Year:0.25;8;10;6;9;8
